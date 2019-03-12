@@ -1,10 +1,20 @@
 {
   "name": "node-syslog-client-bsd",
+  "description": "Wrapper for https://www.npmjs.com/package/syslog-client package",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "lint": "yarn eslint index.js src/**/*.js example/*.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clement-berard/node-syslog-client-bsd.git"
+  },
+  "keywords": [
+    "syslog",
+    "bsd"
+  ],
+  "author": "Clement BERARD",
   "license": "MIT",
   "dependencies": {
     "eslint": "^5.15.1",

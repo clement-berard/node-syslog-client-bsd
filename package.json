@@ -1,7 +1,7 @@
 {
   "name": "node-syslog-client-bsd",
   "description": "Wrapper for https://www.npmjs.com/package/syslog-client package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "lint": "yarn eslint index.js src/**/*.js example/*.js"

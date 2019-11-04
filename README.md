@@ -1,6 +1,8 @@
 
 # node-syslog-client-bsd
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/clement-berard/node-syslog-client-bsd.svg)](https://greenkeeper.io/)
+
 Wrapper for https://www.npmjs.com/package/syslog-client package
 
 ## Install
